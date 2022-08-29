@@ -1,3 +1,11 @@
+/*---------------------------------------------------------------------------
+* UNIVERSIDAD DEL VALLE DE GUATEMALA
+* FACULTAD DE INGENIERÍA
+* DEPARTAMENTO DE CIENCIA DE LA COMPUTACIÓN
+* Autor: Diego Alejandro Morales Escobar
+* Curso:       CC3086 - Programación de microprocesadores     Ciclo II - 2022
+------------------------------------------------------------------------------*/
+
 #include <pthread.h> 
 #include <stdio.h> 
 #include <stdlib.h> 
